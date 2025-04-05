@@ -1,8 +1,9 @@
-# tea_solver
+# 🫖 TEA Solver
 
-![TEA_schema](https://upload.wikimedia.org/wikipedia/commons/a/a1/TEA_InfoBox_Diagram.png)
-
-https://en.wikipedia.org/wiki/Tiny_Encryption_Algorithm 
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/TEA_InfoBox_Diagram.png" alt="TEA Schema" width="400"/>
+</p>
+> 🔗 [Read Wikipedia article](https://en.wikipedia.org/wiki/Tiny_Encryption_Algorithm) 
 
 ```c
 #include <stdint.h>
