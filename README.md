@@ -1,6 +1,6 @@
 # tea_solver
 
-![https://upload.wikimedia.org/wikipedia/commons/a/a1/TEA_InfoBox_Diagram.png]
+![TEA_schema](https://upload.wikimedia.org/wikipedia/commons/a/a1/TEA_InfoBox_Diagram.png)
 
 https://en.wikipedia.org/wiki/Tiny_Encryption_Algorithm 
 
